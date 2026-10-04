@@ -44,10 +44,11 @@ and MEN.
 
 
 ### 💬 IMDb Sentiment Analysis
-**NLP • Classical ML • Model Evaluation**
+**NLP • TF-IDF • Classical ML • Model Evaluation**
 
-Sentiment classification using classical machine learning
-and NLP techniques.
+Comparing classical machine learning models for sentiment analysis
+to understand how text representation, model assumptions, and
+evaluation metrics affect performance on real-world text data.
 
 ---
 

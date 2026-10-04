@@ -36,16 +36,12 @@ requirements, machine learning predictions, explainability,
 and actionable retention decisions.
 
 ### 🧠 Human Relatedness & Semantic Embeddings
-**NLP • Word Embeddings • Similarity Analysis**
+**NLP • Word Embeddings • Cognitive Semantics • Statistical Analysis**
 
-Exploring semantic representations and their relationship
-with human judgments of word relatedness.
+Exploring how distributed word representations align with human
+judgments of similarity and relatedness using GloVe, SimLex-999,
+and MEN.
 
-### 📊 Customer Churn: SQL → ML
-**SQL • EDA • Statistical Analysis • Machine Learning**
-
-Customer behavior analysis progressing from SQL-based
-analysis to predictive modeling.
 
 ### 💬 IMDb Sentiment Analysis
 **NLP • Classical ML • Model Evaluation**

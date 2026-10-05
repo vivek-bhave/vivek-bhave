@@ -78,6 +78,10 @@ Exploring how distributed word representations align with **human judgments of s
 
 A study of classical ML for ~40K IMDb reviews, comparing five models and examining how **TF-IDF representation, model assumptions, evaluation metrics, and failure cases** affect sentiment analysis.
 
+### ⚖️ Fair Expense Splitting Model
+**Mathematical Modelling • Applied Mathematics • Problem Solving • Web Application**
+
+A mathematical model for splitting shared expenses based on **relative financial burden rather than equal payment**, using an exponential weighting function with a tunable fairness parameter.
 ---
 
 ## Currently Exploring

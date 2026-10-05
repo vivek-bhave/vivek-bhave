@@ -64,26 +64,24 @@ MS AI & Data Science student interested in:
 ## Featured Projects
 
 ### 🚀 Real-Time Customer Engagement DSS
-**Decision Support System • Machine Learning • Explainable AI • FastAPI • Streamlit • MariaDB • Docker • AWS**
+**ML Systems • Decision Support Systems • Machine Learning • Explainable AI • FastAPI • Streamlit • MariaDB • Docker • AWS**
 
 An AI-powered DSS that translates **user requirements into system requirements** for real-time customer engagement. Combines churn prediction, SHAP-based explainability, customer business value, and rule-based recommendations to provide **role-specific decision support** for CRM agents, AI monitoring agents, and retention managers.
+
+### 💬 IMDb Sentiment Analysis
+**NLP • TF-IDF • Classical Machine Learning • Feature Engineering • Model Comparison • Evaluation**
+
+A study of classical ML for ~40K IMDb reviews, comparing five models and examining how **text representation, model assumptions, evaluation metrics, and failure cases** affect sentiment analysis.
 
 ### 🧠 Human Relatedness & Semantic Embeddings
 **NLP • Word Embeddings • Cognitive Semantics • Statistical Analysis**
 
 Exploring how distributed word representations align with **human judgments of similarity and semantic relatedness** using GloVe embeddings, SimLex-999, and MEN.
 
-### 💬 IMDb Sentiment Analysis
-**NLP • TF-IDF • Classical Machine Learning • Feature Engineering • Model Comparison • Evaluation**
-
-A study of classical ML for ~40K IMDb reviews, comparing five models and examining how **TF-IDF representation, model assumptions, evaluation metrics, and failure cases** affect sentiment analysis.
-
 ### ⚖️ Fair Expense Splitting Model
 **Mathematical Modelling • Applied Mathematics • Problem Solving • Web Application**
 
 A mathematical model for splitting shared expenses based on **relative financial burden rather than equal payment**, using an exponential weighting function with a tunable fairness parameter.
----
-
 ## Currently Exploring
 
 <p>
